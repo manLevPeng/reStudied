@@ -15,4 +15,4 @@ int main(void)
 	printf("합은 %d이고 평균은 %d입니다",sum,avg);
 
 	return 0;
-}
+} 
